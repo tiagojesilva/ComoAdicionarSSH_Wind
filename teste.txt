@@ -1,3 +1,5 @@
 discover.
 
 Nossa, foi muito difícil fazer isso. Meu deus.
+
+Acho que meu erro foi criar uma branch sem dominar antes o uso na master. Farei novamente mas, sem criar uma nova branch. 
