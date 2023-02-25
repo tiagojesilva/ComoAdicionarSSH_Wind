@@ -25,7 +25,7 @@ Mini tutorial em português, como criar e add chave no wind para o github.
 
 3 - Agora vamos adicionar sua chave criada ao sistema.
 
-	3.1 - add isso. eval "$(ssh-agent -s)
+	3.1 - add isso. eval "$(ssh-agent -s)"
 	
 	3.2 - Caso tenha alterado o nome da chave mude id_ed25519 para o nome criado. ssh-add ~/.ssh/id_ed25519
 
