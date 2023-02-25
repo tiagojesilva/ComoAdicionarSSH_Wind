@@ -45,3 +45,30 @@ git config --list
 
 *******************************
 
+
+***** TUTORIAL *****
+
+Quand querer add coisas em uma outra branch. Entre no repositório que tenha a branch, pelo terminal.
+
+git init [atualiza coisas]
+
+git remote add --fetch "nome da branch que deseja atualizar" https://github.com/tiagojesilva/"nome do repo termina com .git"
+
+git checkout [vc descobre em qual branch se encontra, preste atenção na msg que irá aparecer]
+"Your branch is up to date with 'origin/segunda'." [no meu caso o endereço e nome é "origin segunda" isso será importante mais tarde]  
+
+git switch "nome da branch que deseja acessar" [mais uma vez, note no nome que irá aparecer abaixo]
+
+git status [sempre útil para saber o que tem de alteração]
+
+git add another.txt [no meu caso estou add um arquivo txt]
+
+git commit -m "informar brevemente o que fez"
+
+git status [sempre útil para saber o que tem de alteração]
+
+git pull terceira terceira [informando para o sistema que desejo subir as alterações, note que no meu caso o endereço é "terceira terceira"]
+
+git push --set-upstream origin "nome da branch" [no meu caso se chama terceira]
+
+**********************************************
