@@ -1,2 +1,4 @@
 teste final essa pasta ta configurada com a ssh pub~
 reiniciei o pc, vamos ver se funciona.
+
+Uma coisa que eu aprendi foi. Adicone uma chave ssh em um repo. Só assim podserá fazer pull
