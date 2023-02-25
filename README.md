@@ -11,6 +11,7 @@ Mini tutorial em português, como criar e add chave no wind para o github.
 	1 - Configure o Git no seu computador.
 
 2 - Abra o terminal.
+	2.0 Vá para pasta .ssh ela está dentro seu usário, abra o terminal lá.
 	2.1 - Cole isso ssh-keygen -t ed25519 -C "your_email@example.com"
 	
 	2.2 - Essa mensagem informa para você um nome para sua chave. Caso não faça isso, uma aleatória é gerada.
