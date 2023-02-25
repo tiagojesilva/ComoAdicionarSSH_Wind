@@ -1,0 +1,2 @@
+teste final essa pasta ta configurada com a ssh pub~
+reiniciei o pc, vamos ver se funciona.
