@@ -37,7 +37,11 @@ ao conteúdo do arquivo, copie.
 Vá até o github. Acesse a configuração, clique em SSH, clique em new SSH key, dê um nome a sua chave e cole no local indicado. 
 
 
+NOTA: 
+git config --global user.name
+git config --global user.email
 
+git config --list
 
 *******************************
 
